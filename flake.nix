@@ -152,6 +152,8 @@
                   };
                 };
 
+                home.sessionPath = [ "$HOME/.composer/vendor/bin" ];
+
                 # User packages
                 home.packages =
                   mailerlite.pkgs.${system}.dev
