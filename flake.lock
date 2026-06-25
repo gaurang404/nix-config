@@ -23,11 +23,11 @@
         "nixpkgs": "nixpkgs"
       },
       "locked": {
-        "lastModified": 1782164517,
-        "narHash": "sha256-Cy8iD2lqrIOr0qvMqWt1ZvpaEHFWPYLDldS/y+zECHA=",
+        "lastModified": 1782340091,
+        "narHash": "sha256-wn0/BdEIsPn97/XsitdgNYUY+mQMwXbBmzLbfXPU2pk=",
         "owner": "nklmilojevic",
         "repo": "claude-code-overlay",
-        "rev": "d1c909831146538bbcc72e7cabce60ff5aecff50",
+        "rev": "743e27d1377bdf6567e7aedca38b73754cbfe4d4",
         "type": "github"
       },
       "original": {
@@ -114,11 +114,11 @@
     "homebrew-cask": {
       "flake": false,
       "locked": {
-        "lastModified": 1782326003,
-        "narHash": "sha256-2KVGmH/fhI7I2Vx9T4zSapLkiJXTm9VeEco1Ut3obJ4=",
+        "lastModified": 1782388894,
+        "narHash": "sha256-q0uPAVVCqlJE5UDf6seFjeQDQO+axx6g6PuGpB7Dcos=",
         "owner": "homebrew",
         "repo": "homebrew-cask",
-        "rev": "906537486e140703e891233b1cab1d3354000af0",
+        "rev": "126f12c7cea9efec355f2756d96e1d8e823c093c",
         "type": "github"
       },
       "original": {
@@ -130,11 +130,11 @@
     "homebrew-core": {
       "flake": false,
       "locked": {
-        "lastModified": 1782328334,
-        "narHash": "sha256-s5dLHVcXFWaVohJ6TmvWf7XAjEZOXc9dPNHWebhLNes=",
+        "lastModified": 1782392215,
+        "narHash": "sha256-87+rY/C+/JJakqXk5deFL1mMDbOuRsugf7YbqwXjPRQ=",
         "owner": "homebrew",
         "repo": "homebrew-core",
-        "rev": "4992dc553b94d0add28d4e686ba31b9bd03b0816",
+        "rev": "0c43b5c96b8323e577703594be83939f6ea76246",
         "type": "github"
       },
       "original": {
@@ -156,12 +156,12 @@
         ]
       },
       "locked": {
-        "narHash": "sha256-AXya/DxLxOQxMbeYGmfzH56ecXH8uK5bHJ+b+leVzJ0=",
-        "path": "/Users/gaurangsharma/.config/mailerlite/nix-config",
+        "narHash": "sha256-Ba+3FqBvicD4YNiuOEpPTvY6oDwIG6a1VRkcBGui82U=",
+        "path": "/Users/gaurang/.config/mailerlite/nix-config",
         "type": "path"
       },
       "original": {
-        "path": "/Users/gaurangsharma/.config/mailerlite/nix-config",
+        "path": "/Users/gaurang/.config/mailerlite/nix-config",
         "type": "path"
       }
     },
