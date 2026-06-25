@@ -17,7 +17,7 @@
 
     # MailerLite shared configuration
     mailerlite = {
-      url = "path:/Users/gaurangsharma/.config/mailerlite/nix-config";
+      url = "path:/Users/gaurang/.config/mailerlite/nix-config";
       inputs.nixpkgs.follows = "nixpkgs";
       inputs.nixpkgs-stable.follows = "nixpkgs-stable";
     };
@@ -36,7 +36,7 @@
   outputs = { self, nixpkgs, nixpkgs-stable, nix-darwin, home-manager, mailerlite, nix-homebrew, homebrew-core, homebrew-cask, ... }@inputs:
     let
       system = "aarch64-darwin";
-      username = "gaurangsharma";
+      username = "gaurang";
       hostname = "GaurangsMacBookPro";
 
       overlays = [
